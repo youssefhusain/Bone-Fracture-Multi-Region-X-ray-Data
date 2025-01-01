@@ -8,7 +8,7 @@ This project aims to classify bone fractures using deep learning techniques. The
 - Python 3.7 or higher
 - Python libraries:
   - TensorFlow
-  - Keras
+  - Kerassss
   - NumPy
   - OpenCV
   - Scikit-learn
